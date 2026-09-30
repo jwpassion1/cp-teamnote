@@ -1,6 +1,7 @@
 #pragma GCC optimize("Ofast")
 #pragma GCC optimize("unroll-loops")
 #include <bits/stdc++.h>
+#include <cassert>
 using namespace std;
 typedef long long ll;
 typedef pair<int, int> pii;
